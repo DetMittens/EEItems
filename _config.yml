@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: Compendium of Items for BG(2) Enhanced Editions
-description: An indepth description of all items available within Baldurs Gate (2): Enhanced Editions
+title: Compendium of Items for Baldurs Gate Enhanced Editions
+description: An indepth description of all items available within Baldurs Gate Enhanced Editions
+customjs:
+ - https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-sort-content.user.js
