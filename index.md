@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+# Table of contents
+1. [Weapons](#weapons)
+2. [Armour](#Armour)
+3. [Other Slots](#Other)
 
-Inits,  
+## Weapons <a name="weapons"></a>
+
+Name | To Hit | Damage | Bonus Effect | Location | Usable-By
+---|---|---|---|---|---
+An Axe|+0|1d6|None|Everywhere|All
+Another Axe|+1|1d6+1|None|Everywhere|All
+
+## Armour <a name="Armour"></a>
 
 
-| Name | Va1 | Va2 | Va3 | Va3 |
-|------|-----|-----|-----|-----|
-| a    | 10  | 5   | 01  | x   |
-| b    | 20  | 5   | 5   | xa  |
-|      |     |     |     |     |
+## Other Slots <a name="Other"></a>
+
+
+
